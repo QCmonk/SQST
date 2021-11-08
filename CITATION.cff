@@ -1,0 +1,21 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: IQOQI
+    family-names: Dakic
+    given-names: Borivoje
+    orcid: "https://orcid.org/0000-0002-6987-5513"
+  -
+    family-names: Morris
+    given-names: Joshua
+    orcid: "https://orcid.org/0000-0002-1022-7976"
+
+cff-version: "1.1.0"
+date-released: 2021-11-08
+license: MIT
+message: "If you use this software, please cite it as below"
+repository-code: "https://github.com/QCmonk/SQST"
+title: SQST
+version: "1.0"
+...
